@@ -1,0 +1,6 @@
+framework module Pods_Set4GitExample {
+  umbrella header "Pods-Set4GitExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
