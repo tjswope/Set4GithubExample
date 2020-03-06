@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/swopet/Documents/CS Seminar/set 4 Projects/Set4GitExample/Set4GitExample/Second.storyboard">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/swopet/Documents/CS Seminar/set 4 Projects/Set4GitExample/Set4GitExample/MySecondStoryBoard.storyboard">
+   </FileRef>
+   <FileRef
       location = "group:Set4GitExample.xcodeproj">
    </FileRef>
    <FileRef
